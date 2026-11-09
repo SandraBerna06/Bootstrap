@@ -2,7 +2,7 @@
 
 Maqueta web de la página de **Cisco Networking Academy** realizada con **Bootstrap 5.1** y su sistema de grid, como práctica de diseño de interfaces.
 
-🔗 **Demo:** https://TU-USUARIO.github.io/NOMBRE-DEL-REPOSITORIO/
+🔗 **Demo:** https://sandraberna06.github.io/Bootstrap/
 
 > Proyecto educativo. No tiene relación oficial con Cisco: los textos y la estructura están inspirados en su web y las imágenes son ilustraciones propias.
 
